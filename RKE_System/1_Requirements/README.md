@@ -21,7 +21,7 @@
 |--|-----------|------|-------|
 |LLR1|When we press the blue switch once,the system should lock the door.|HLR1| |
 |LLR2|When we press the blue switch twice,the system should unlock the door.|HLR2| |
-|LLR3|When we press the blue switch thrice,the system should activate/deactivate the alarm.|HLR3| |
+|LLR3|When we press the blue switch three times,the system should activate/deactivate the alarm.|HLR3| |
 |LLR4|When we press the blue switch four times,the system should approach the light.|HLR4| |
 
 

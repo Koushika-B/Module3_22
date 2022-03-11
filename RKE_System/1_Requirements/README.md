@@ -28,6 +28,7 @@
 
 
 ## SWOT Analysis
+![123](https://user-images.githubusercontent.com/82749120/157896704-f9a8547e-6095-4e89-98c5-e337a814cada.png)
 
 
 ## 5 W's and 1 H's

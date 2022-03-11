@@ -4,11 +4,12 @@
 
 ### 2.1.1 High Level Flow Chart Behavioral Diagram
 
-![HLFC](https://user-images.githubusercontent.com/98836479/157879934-0d153a36-abf2-42ba-a98f-9d397cc85d40.PNG)
+![HLFC1 (2)](https://user-images.githubusercontent.com/98836479/157880748-5f291388-e4b4-4c5f-b862-35e22a9ddde9.PNG)
 
 ### 2.1.2 Low Level Flow Chart Behavioral Diagram
 
-![LLFC](https://user-images.githubusercontent.com/98836479/157879997-172fa19e-0c6d-41e5-9d02-e89c4893da5d.PNG)
+![LLFC1 (2)](https://user-images.githubusercontent.com/98836479/157880794-9f13fa61-a012-4f36-9753-50fff1c78550.PNG)
+
 
 ## 2.2 Structural Diagrams
 

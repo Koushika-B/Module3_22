@@ -21,6 +21,6 @@
 
 ### 1.4.1 High Level Use Case Structural Diagram
 
-
+![HLUC](https://user-images.githubusercontent.com/98836479/157850607-da14433f-e499-4e9d-a15a-0b3641588330.PNG)
 
 ### 1.4.2 Low Level Use Case Structural Diagram

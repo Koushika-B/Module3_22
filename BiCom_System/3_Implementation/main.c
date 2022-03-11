@@ -14,10 +14,10 @@
 #define DELAY_COUNT_250MS 		(250U  * DELAY_COUNT_1MS)
 #define DELAY_COUNT_125MS 		(125U  * DELAY_COUNT_1MS)
 
-int lock(void);
-int unlock(void);
-int act_dact_alarm(void);
-int light(void);
+int wnd_status(void);
+int alr_status(void);
+int battery_info(void);
+int door_status(void);
 void led_on(uint8_t led_no);
 void led_off(uint8_t led_no);
 void btn_init(void);
@@ -97,30 +97,30 @@ int main(void)
 			int E = encryption((counter));                        // checking the encryption
 			if(counter == 1 &&  E == 20)
 			{
-				lock();
+				wnd_status();
 				counter = 0;
 
 			}
 			else if (counter == 2 &&  E == 20)
 			{
-				unlock();
+				alr_status();
 				counter = 0;
 			}
 			else if (counter == 3 &&  E == 20)
 			{
-				btn_init();
+				battery_info();
 				counter = 0;
 
 			}
 			else if(counter == 4 &&  E == 20)
 			{
-				light();
+				door_status();
 				counter = 0;
 			}
 		   }
 }
 
-int lock(void)                                                                   //lock function to on all leds
+int wnd_status(void)                                                                   //window status function to on all leds
 {
 				led_on(GPIO_PIN_NO_12);
 				led_on(GPIO_PIN_NO_13);
@@ -129,7 +129,7 @@ int lock(void)                                                                  
 				delay(500000);
 }
 
-int unlock(void)                                                                //unlock function to off all leds
+int alr_status(void)                                                                //alarm status function to off all leds
 {
 				led_off(GPIO_PIN_NO_12);
 				led_off(GPIO_PIN_NO_13);
@@ -138,7 +138,7 @@ int unlock(void)                                                                
 				delay(500000);
 }
 
-int act_dact_alarm(void)                                                           //activate/deactivate function to on all leds in clockwise direction
+int battery_info(void)                                                           //car battery information function to on all leds in clockwise direction
 {
 	led_on(GPIO_PIN_NO_12);
 	delay(500000);
@@ -154,7 +154,7 @@ int act_dact_alarm(void)                                                        
 	led_off(GPIO_PIN_NO_15);
 }
 
-int light(void)                                                                          //approach ligh function to on all leds in anti-clockwise direction
+int door_status(void)                                                                          //door status function to on all leds in anti-clockwise direction
 {
 	led_on(GPIO_PIN_NO_12);
 	delay(500000);

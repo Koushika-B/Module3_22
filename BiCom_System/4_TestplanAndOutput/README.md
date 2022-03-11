@@ -1,8 +1,9 @@
+# 4 TEST PLAN AND OUTPUT
 
-|TEST ID|Objective|Input data| Expected Output|
-|-------|-----|------|-------|
-|TC-01|Check encryption|5*1 |5 |
-|TC-02|Check the windows status|5 & if blue switch pressed once|The system should print window status and turn on all leds at the same time |
-|TC-03|Check the alarm status|If blue switch pressed twice|The system should print alarm status and turn off all leds at the same time|
-|TC-04|To get the information about car battery|If blue switch pressed three times|The system should print car battery info and turn on all leds in clock wise manner|
-|TC-05|Check the door status|If blue switch pressed four times|The system should print door status and turn on all leds in anti-clock wise manner|
+## 4.1 High Level Test Plan
+
+![hlt2](https://user-images.githubusercontent.com/98836479/157908663-9e45d3b5-560c-4b75-9b1f-759ebfdf072e.PNG)
+
+## 4.2 Low Level Test Plan
+
+![LLTP1](https://user-images.githubusercontent.com/98836479/157908636-cc8aa328-09d8-4a3a-b109-70cf5ba448f6.PNG)

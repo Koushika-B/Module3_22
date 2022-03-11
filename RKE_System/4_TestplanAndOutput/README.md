@@ -1,9 +1,9 @@
-# Test plan
+# 4.1 TEST PLAN AND OUTPUT
 
-|TEST ID|Objective|Input data| Expected Output|
-|-------|-----|------|-------|
-|TC-01|Check encryption|5*1 |5 |
-|TC-02|Lock the doors|5 & if blue switch pressed once|The system should print lock and turn on all leds at the same time |
-|TC-03|Unlock the doors|If blue switch pressed twice|The system should print unlock and turn off all leds at the same time|
-|TC-04|Activation/Deactivation of alarm|If blue switch pressed three times|The system should print alarm activation/deactivation and turn on all leds in clock wise manner|
-|TC-05|Approach light|If blue switch pressed four times|The system should print approach light and turn on all leds in anti-clock wise manner|
+## 4.1 High Level Test Plan
+
+![hlt1](https://user-images.githubusercontent.com/98836479/157908213-0745bd0b-e32d-4c53-84cd-9c7928dd48d3.PNG)
+
+##  4.2 Low Level Test Plan
+
+![LLTP1](https://user-images.githubusercontent.com/98836479/157908303-73d1ee1b-38cb-4310-a83e-1d398da93dd1.PNG)

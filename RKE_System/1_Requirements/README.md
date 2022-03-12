@@ -7,7 +7,7 @@
   
   ## Identifying features
   
-  * Door must be locked with the one user button click.
+  * Door must be locked for one user button click.
   * Door must be unlocked for two user button clicks.
   * Activation and Deactivation of alarm for three user button clicks.
   * Approach light for four user button clicks.

@@ -40,13 +40,12 @@
 
 | Folder | Description | Contributors |
    |:---:|:---:|:---:|
-   | 1_Requirements | Description, State of art, Features, Advantages, Disadvantages, SWOT Analysis, 5W'S and 1H|  |
-   |                | High and Low Level Requirements | |
-   | 2_Architectures | Structural and Behavioural diagrams |  |
-   | 3_Implementation | Source Code files |  |
-   | 4_TestplanAndOutput | High and Low Level Test Plans |  |
-   | 5_Report | Described about what is done in this project | |
-   | 6_ImagesAndVideos | Captured outputs |  |
+   | 1_Requirements | Abstract, State of art, Features, Applicances, SWOT Analysis, 5W'S and 1H| Rohankkumar Hubballi |
+   |                | High and Low Level Requirements |Ambika S Sonnad |
+   | 2_Architectures | Structural and Behavioural diagrams | Koushika B |
+   | 3_Implementation | Source Code files | Ambika , Rohankkumar, Koushika |
+   | 4_TestplanAndOutput | High and Low Level Test Plans | Ambika , Koushika |
+   | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
+   | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar  |
    | 7_Others | Conclusion | |
-   |                          | Tools Used |  |
- 
+   |                          | Tools Used | STM32Cube_IDE , Cygwin  |

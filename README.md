@@ -1,5 +1,7 @@
 # Module3_22
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e87aa0de98fb405681dad984f0e74a99)](https://app.codacy.com/gh/Koushika-B/Module3_22?utm_source=github.com&utm_medium=referral&utm_content=Koushika-B/Module3_22&utm_campaign=Badge_Grade_Settings)
+
 * Repository for doing projects as per industry standards
 
 ## Folder Description

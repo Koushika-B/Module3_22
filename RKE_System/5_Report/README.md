@@ -92,6 +92,21 @@ RKE transmission requires two components - a transmitter and a receiver
 
 ![LLTP1](https://user-images.githubusercontent.com/98836479/157908303-73d1ee1b-38cb-4310-a83e-1d398da93dd1.PNG)
 
+# Simulation pictures
+
+## When switch is pressed once, all leds will ON.
+![all_led](https://user-images.githubusercontent.com/46968025/158003542-79a7004c-9d09-4a61-9e4d-8fd87c6d9227.PNG)
+
+## When switch is pressed twice, all leds will OFF.
+![all_led_off](https://user-images.githubusercontent.com/46968025/158003544-7abbad95-9968-49dc-8f69-8971ee811485.PNG)
+
+## When switch is pressed once, all leds will ON in clock wise direction.
+![clock_wise](https://user-images.githubusercontent.com/46968025/158006394-9cca8fd6-568b-4fbe-a16a-9e68260429d4.PNG)
+
+## When switch is pressed once, all leds will ON in anti-clock wise direction.
+![anti clock](https://user-images.githubusercontent.com/46968025/158006395-8740ec24-aa10-49f8-8fc9-22e4cdb9912f.PNG)
+
+
 ## Conclusion
 Remote Keyless Entry(RKE) is a system where automobile owners are much more benefited in handling the automobile like lock & unlock the car in remote and monitoring the status of the automobile. The scope of this system is huge in automobiles. This is the better security system with highly encrypted with no need of direct human interactions with the car.
 

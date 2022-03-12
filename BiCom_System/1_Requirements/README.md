@@ -23,3 +23,9 @@
 |LLR3|When we press the blue switch three times,the system should get informaion about the car battery.|HLR3|Implemented |
 |LLR4|When we press the blue switch four times,the system should check the door status.|HLR4|Implemented |
 
+### Swot analysis
+
+
+### 5W's and 1H's
+![2 1](https://user-images.githubusercontent.com/82749120/157997138-7217e6a1-0910-47bc-96ab-5e870d146a95.png)
+

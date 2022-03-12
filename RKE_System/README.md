@@ -47,5 +47,5 @@
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ambika , Koushika |
    | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
    | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar  |
-   | 7_Others | Conclusion | |
+   | 7_Others | Conclusion |Koushika B |
    |                          | Tools Used | STM32Cube_IDE , Cygwin  |

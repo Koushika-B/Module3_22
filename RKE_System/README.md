@@ -24,6 +24,14 @@
 
 [![Git Inspector](https://github.com/Koushika-B/Module3_22/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/Koushika-B/Module3_22/actions/workflows/gitinspector.yml)
 
+## Code Quality Score
+
+![image](https://user-images.githubusercontent.com/98836479/156201195-7634d96a-29fc-4d5b-91f1-6ea8ef75ead0.png)
+
+## Code Grade
+
+![image](https://user-images.githubusercontent.com/98836479/156201279-e596b36c-aed0-46fe-a464-f5b482bf30fa.png)
+
 ### Codacy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed7c71d81bf742839588b23ae5bf5fcc)](https://www.codacy.com/gh/Koushika-B/Module3_22/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Koushika-B/Module3_22&amp;utm_campaign=Badge_Grade)

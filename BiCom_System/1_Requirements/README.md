@@ -1,6 +1,18 @@
 
-# BiCom_System
 
+# Problem_statement: BiCom_System
+
+ ## Description
+ 
+ The Bicom system involves the design of the remotely locking or unlocking access to automobiles and it requires two components  transmitter and reciever.It can be implemented     with using the encryption method and operates by broadcasting radio waves on a particular frequency unidirectionally.It is also able to display the status of the car such as window,alarm,carbattery,lightapproach.
+  
+  ## Identifying features
+  
+  * Display Window status for one user button click.
+  * Display Alarm status for two user button clicks.
+  * Display car battery info for three user button clicks.
+  * Display Door status for four user button clicks.
+  
 ## Requirements
 
 ### High Level Requirements

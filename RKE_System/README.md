@@ -40,11 +40,11 @@
 
 | Folder | Description | Contributors |
    |:---:|:---:|:---:|
-   | 1_Requirements | Description, State of Art, Identifying Features, Advantages, Disadvantages, SWOT Analysis, 5W'S and 1H| Rohankkumar Hubballi |
+   | 1_Requirements | Description, State of Art, Identifying Features, Advantages, Disadvantages, SWOT Analysis, 5W'S and 1H| Rohankumar Hubballi |
    |                | High and Low Level Requirements |Ambika S Sonnad |
    | 2_Architectures | Structural and Behavioural diagrams | Koushika |
-   | 3_Implementation | Source Code files | Ambika , Rohankkumar, Koushika |
+   | 3_Implementation | Source Code files | Ambika , Rohankumar, Koushika |
    | 4_TestplanAndOutput | High and Low Level Test Plans | Koushika , Ambika |
-   | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
+   | 5_Report | Described about what is done in this project | Rohankumar Hubballi |
    | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar, Koushika |
    | 7_Others | Conclusion, Tools Used |Koushika, Ambika , Rohankumar| 

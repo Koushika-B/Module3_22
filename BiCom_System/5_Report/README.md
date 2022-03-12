@@ -94,6 +94,25 @@ The Bicom system involves the design of the remotely locking or unlocking access
 
 ![LLTP1](https://user-images.githubusercontent.com/98836479/157908636-cc8aa328-09d8-4a3a-b109-70cf5ba448f6.PNG)
 
+# Simulation pictures
+
+## When switch is pressed once, all leds will ON
+![all_led](https://user-images.githubusercontent.com/46968025/158003542-79a7004c-9d09-4a61-9e4d-8fd87c6d9227.PNG)
+
+## When switch is pressed twice, all leds will OFF
+![all_led_off](https://user-images.githubusercontent.com/46968025/158003544-7abbad95-9968-49dc-8f69-8971ee811485.PNG)
+
+
+## When switch is pressed once, all leds will ON in clock wise direction.
+![clock_wise](https://user-images.githubusercontent.com/46968025/158006394-9cca8fd6-568b-4fbe-a16a-9e68260429d4.PNG)
+
+## When switch is pressed once, all leds will ON in anti-clock wise direction.
+![anti clock](https://user-images.githubusercontent.com/46968025/158006395-8740ec24-aa10-49f8-8fc9-22e4cdb9912f.PNG)
+
+# Output video
+https://user-images.githubusercontent.com/82749120/158001767-69efcac5-97a1-482a-a32f-4c4d94dd842e.mp4
+
+
 ## Conclusion
 
 Bi-Com System of Remote Keyless Entry(RKE) is system where automobile owners are much more befenited for handling the automobile like diplaying or printing the car status such as Window, Alarm, Car Battery information & Door status and monitoring the status of the automobile remotely in a two way communication method between the key fob and car. The scope of this system is huge in automobiles. This is the Better Security system with Highly Encrypted with no need of direct human interactions with the car.

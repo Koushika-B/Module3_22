@@ -1,16 +1,40 @@
+# BIDIRECTIONAL COMMUNICATION REMOTE KEYLESS ENTRY SYSTEM (BiCom System)
 
-# Problem_statement: BiCom_System
+## Description
 
- ## Description
- 
- The Bicom system involves the design of the remotely locking or unlocking access to automobiles and it requires two components  transmitter and reciever.It can be implemented     with using the encryption method and operates by broadcasting radio waves on a particular frequency unidirectionally.It is also able to display the status of the car such as window,alarm,carbattery,lightapproach.
-  
-  ## Identifying features
-  
-  * Display Window status for one user button click.
-  * Display Alarm status for two user button clicks.
-  * Display car battery info for three user button clicks.
-  * Display Door status for four user button clicks.
+The Bicom system involves the design of the remotely locking or unlocking access to automobiles and it requires two components transmitter and reciever. It can be implemented with using the encryption method and operates by broadcasting radio waves on a particular frequency bidirectionally. It is also able to display the status of the car such as window, alarm, car battery information, light approach.
+
+## State of Art
+
+* By using this advanced modern technologies we can remotely monitoring the status of the car
+* The transmissions between the car and key are encrypted to prevent theft
+
+## Identifying features
+
+* Display Window status for one user button click
+* Display Alarm status for two user button clicks
+* Display car battery info for three user button clicks
+* Display Door status for four user button clicks
+
+## Advantages
+
+* Convenience, better security, automatic work control
+* No need of human interaction with the car
+* This system provides easy security access to the automobiles through encryption
+* The automobile owners shall get benefited
+
+## Disadvantages
+
+* If remote is lost then automobile security is in more trouble
+* If any other remote have our remote frequency then our automobile security is in trouble
+* This system works on certain limited range
+
+## SWOT analysis
+
+![2 2](https://user-images.githubusercontent.com/82749120/157997403-ad876ea0-9d38-4c70-a151-59bd6967cd02.png)
+
+## 5W's and 1H
+![2 1](https://user-images.githubusercontent.com/82749120/157997138-7217e6a1-0910-47bc-96ab-5e870d146a95.png)
   
 ## Requirements
 
@@ -23,9 +47,7 @@
 |HLR3|It should get informaion about the car battery.|Implemented |
 |HLR4|It should check the door status.|Implemented |
 
-
 ### LOW Level Requirements
-
 
 |ID|Description|HLR ID|Status|
 |--|-----------|------|-------|
@@ -34,51 +56,50 @@
 |LLR3|When we press the blue switch three times,the system should get informaion about the car battery.|HLR3|Implemented |
 |LLR4|When we press the blue switch four times,the system should check the door status.|HLR4|Implemented |
 
-### Swot analysis
+## ARCHITECTURE
 
-![2 2](https://user-images.githubusercontent.com/82749120/157997403-ad876ea0-9d38-4c70-a151-59bd6967cd02.png)
+## Behavioral Diagrams
 
-
-### 5W's and 1H's
-![2 1](https://user-images.githubusercontent.com/82749120/157997138-7217e6a1-0910-47bc-96ab-5e870d146a95.png)
-
-## 2 ARCHITECTURE
-
-## 2.1 Behavioral Diagrams
-
-### 2.1.1 High Level Flow Chart Behavioral Diagram
+### High Level Flow Chart Behavioral Diagram
 
 ![Hlfc1](https://user-images.githubusercontent.com/98836479/157873698-59014fd7-572a-45b0-89b6-2d7f21e48712.PNG)
 
-### 2.1.2 Low Level Flow Chart Behavioral Diagram
+### Low Level Flow Chart Behavioral Diagram
 
 ![llfc1](https://user-images.githubusercontent.com/98836479/157875742-aeedf256-bc6d-4fa1-adf5-1f2a24137f8d.PNG)
 
-## 2.2 Structural Diagrams
+## Structural Diagrams
 
-### 2.2.1 High Level Use Case Structural Diagram
+### High Level Use Case Structural Diagram
 
 ![hluc1](https://user-images.githubusercontent.com/98836479/157877220-457acee6-4c7a-40af-a0c9-7771dcaabe40.PNG)
 
-### 2.2.2 Low Level Use Case Structural Diagram
+### Low Level Use Case Structural Diagram
 
 ![lluc1](https://user-images.githubusercontent.com/98836479/157878140-41a85b9d-ebd5-40ba-bd92-7e2e2e179076.PNG)
 
-## 2.3 BEST METHODS FOLLOWED
+## BEST METHODS FOLLOWED
 
 * Used microsoft word as a drawing tool for UML diagrams
 * Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
 * Detailed explanation in Low level Behavioural and Structural Diagrams
 
-## 4 TEST PLAN AND OUTPUT
+## TEST PLAN AND OUTPUT
 
-## 4.1 High Level Test Plan
+## High Level Test Plan
 
 ![hlt2](https://user-images.githubusercontent.com/98836479/157908663-9e45d3b5-560c-4b75-9b1f-759ebfdf072e.PNG)
 
-## 4.2 Low Level Test Plan
+## Low Level Test Plan
 
 ![LLTP1](https://user-images.githubusercontent.com/98836479/157908636-cc8aa328-09d8-4a3a-b109-70cf5ba448f6.PNG)
 
+## Conclusion
 
+Bi-Com System of Remote Keyless Entry(RKE) is system where automobile owners are much more befenited for handling the automobile like diplaying or printing the car status such as Window, Alarm, Car Battery information & Door status and monitoring the status of the automobile remotely in a two way communication method between the key fob and car. The scope of this system is huge in automobiles. This is the Better Security system with Highly Encrypted with no need of direct human interactions with the car.
+
+## Tools Used
+
+* STM32CubeIDE
+* Cygwin
 

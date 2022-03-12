@@ -25,6 +25,8 @@
 
 ### Swot analysis
 
+![2 2](https://user-images.githubusercontent.com/82749120/157997403-ad876ea0-9d38-4c70-a151-59bd6967cd02.png)
+
 
 ### 5W's and 1H's
 ![2 1](https://user-images.githubusercontent.com/82749120/157997138-7217e6a1-0910-47bc-96ab-5e870d146a95.png)

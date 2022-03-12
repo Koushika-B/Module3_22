@@ -1,4 +1,16 @@
-# RKE_System
+# Problem_statement: RKE_System
+
+ ## Description
+ 
+ The RKE system involves the design of the remotely locking or unlocking access to automobiles and it requires two components   transmitter and reciever.It can be implemented with using the encryption method and operates by broadcasting radio waves on 
+  a particular frequency unidirectionally.
+  
+  ## Identifying features
+  
+  * Door must be locked for one user button click.
+  * Door must be unlocked for two user button clicks.
+  * Activation and Deactivation of alarm for three user button clicks.
+  * Approach light for four user button clicks.
 
 
 ## Requirements

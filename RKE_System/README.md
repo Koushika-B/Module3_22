@@ -24,6 +24,10 @@
 
 [![Git Inspector](https://github.com/Koushika-B/Module3_22/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/Koushika-B/Module3_22/actions/workflows/gitinspector.yml)
 
+### Codacy
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed7c71d81bf742839588b23ae5bf5fcc)](https://www.codacy.com/gh/Koushika-B/Module3_22/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Koushika-B/Module3_22&amp;utm_campaign=Badge_Grade)
+
 ## FOLDER STRUCTURE AND CONTRIBUTORS
 
 | Folder | Description | Contributors |

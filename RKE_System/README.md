@@ -44,8 +44,8 @@
    |                | High and Low Level Requirements |Ambika S Sonnad |
    | 2_Architectures | Structural and Behavioural diagrams | Koushika B |
    | 3_Implementation | Source Code files | Ambika , Rohankkumar, Koushika |
-   | 4_TestplanAndOutput | High and Low Level Test Plans | Ambika , Koushika |
+   | 4_TestplanAndOutput | High and Low Level Test Plans | Koushika , Ambika |
    | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
    | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar  |
    | 7_Others | Conclusion |Koushika B |
-   |                          | Tools Used | STM32Cube_IDE , Cygwin  |
+   |                          | Tools Used |Ambika , Rohankkumar, Koushika |

@@ -46,6 +46,6 @@
    | 3_Implementation | Source Code files | Ambika , Rohankkumar, Koushika |
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ambika , Koushika |
    | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
-   | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar  |
-   | 7_Others | Conclusion, Tools Used | Koushika |
+   | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar, Koushika  |
+   | 7_Others | Conclusion, Tools Used | Koushika, Ambika , Rohankumar |
    

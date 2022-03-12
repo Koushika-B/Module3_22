@@ -18,18 +18,18 @@ The Bicom system involves the design of the remotely locking or unlocking access
 
 ## Advantages
 
-* Convenience, better security, automatic work control.
-* No need of human interaction with the car.
-* This system provides easy security access to the automobiles through encryption.
-* The automobile owners shall get benefited.
+* Convenience, better security, automatic work control
+* No need of human interaction with the car
+* This system provides easy security access to the automobiles through encryption
+* The automobile owners shall get benefited
 
 ## Disadvantages
 
-* If remote is lost then automobile security is in more trouble.
-* If any other remote have our remote frequency then our automobile security is in trouble.
-* This system works on certain limited range.
+* If remote is lost then automobile security is in more trouble
+* If any other remote have our remote frequency then our automobile security is in trouble
+* This system works on certain limited range
 
-## Swot analysis
+## SWOT analysis
 
 ![2 2](https://user-images.githubusercontent.com/82749120/157997403-ad876ea0-9d38-4c70-a151-59bd6967cd02.png)
 

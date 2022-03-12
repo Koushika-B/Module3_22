@@ -4,7 +4,7 @@
 
 ![1](https://user-images.githubusercontent.com/98836479/157920149-2934c292-0b41-453d-b6d5-e4919bf50278.PNG)
 
-## Badges
+## Bad
 
 ### Build Status
 
@@ -40,12 +40,12 @@
 
 | Folder | Description | Contributors |
    |:---:|:---:|:---:|
-   | 1_Requirements | Abstract, State of art, Features, Applicances, SWOT Analysis, 5W'S and 1H| Rohankkumar Hubballi |
+   | 1_Requirements | Description, State of Art, Identifying Features, Advantages, Disadvantages, SWOT Analysis, 5W'S and 1H| Rohankkumar Hubballi |
    |                | High and Low Level Requirements |Ambika S Sonnad |
-   | 2_Architectures | Structural and Behavioural diagrams | Koushika B |
+   | 2_Architectures | Structural and Behavioural diagrams | Koushika |
    | 3_Implementation | Source Code files | Ambika , Rohankkumar, Koushika |
    | 4_TestplanAndOutput | High and Low Level Test Plans | Ambika , Koushika |
    | 5_Report | Described about what is done in this project | Rohankkumar Hubballi |
    | 6_ImagesAndVideos | Captured outputs | Ambika , Rohankumar  |
-   | 7_Others | Conclusion | |
-   |                          | Tools Used | STM32Cube_IDE , Cygwin  |
+   | 7_Others | Conclusion, Tools Used | Koushika |
+   

@@ -1,4 +1,4 @@
-# Simulstion pictures
+# Simulation pictures
 
 ## When switch is pressed once, all leds will ON
 ![all_led](https://user-images.githubusercontent.com/46968025/158003542-79a7004c-9d09-4a61-9e4d-8fd87c6d9227.PNG)
